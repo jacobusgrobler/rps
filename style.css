@@ -118,7 +118,7 @@ and (orientation: portrait) {
         overflow-x: hidden;
     }
    .heading {
-        font-size: 60px; /* Adjust font size */
+        font-size: 30px; /* Adjust font size */
     }
    .button-container {
         margin: 5px 100px 5px 100px; /* Adjust margins */
@@ -126,11 +126,12 @@ and (orientation: portrait) {
    .tryagain {
         margin-left: 50px; /* Adjust margin */
         font-size: 14px; /* Adjust font size */
+        padding-left: 100px;
     }
    .horizontal {
         position: relative; /* Adjust padding */
-        padding-bottom: 20px;
-        margin-left: -147px;
+        /* margin-left: -147px; */
+        gap: 5px
     }
    .btn {
         min-height: 80px; /* Adjust min-height */
@@ -147,5 +148,6 @@ and (orientation: portrait) {
    .player2,
    .winner {
         padding: 3px; /* Adjust padding */
+        font-size: 15px;
     }
 }
