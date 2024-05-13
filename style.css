@@ -130,6 +130,7 @@ and (orientation: portrait) {
    .horizontal {
         position: relative; /* Adjust padding */
         padding-bottom: 20px;
+        margin-left: -147px;
     }
    .btn {
         min-height: 80px; /* Adjust min-height */
