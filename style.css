@@ -126,7 +126,7 @@ and (orientation: portrait) {
    .tryagain {
         margin-left: 50px; /* Adjust margin */
         font-size: 14px; /* Adjust font size */
-        margin-left: 115px;
+        margin-left: 110px;
     }
    .horizontal {
         position: relative; /* Adjust padding */
