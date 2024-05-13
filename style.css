@@ -126,7 +126,7 @@ and (orientation: portrait) {
    .tryagain {
         margin-left: 50px; /* Adjust margin */
         font-size: 14px; /* Adjust font size */
-        padding-left: 100px;
+        margin-left: 115px;
     }
    .horizontal {
         position: relative; /* Adjust padding */
@@ -141,7 +141,7 @@ and (orientation: portrait) {
         font-size: 14px; /* Adjust font size */
     }
    .output-container {
-        margin: 5px 100px 20px 100px; /* Adjust margins */
+        margin: 5px 100px 100px 100px; /* Adjust margins */
     }
    .playertwooutput,
    .player1,
